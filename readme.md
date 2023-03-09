@@ -1,0 +1,1 @@
+Code to see if num is prime
